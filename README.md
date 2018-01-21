@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fffi-icu.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fffi-icu?ref=badge_shield)
+
 ffi-icu
 =======
 
@@ -156,3 +158,7 @@ Copyright
 =========
 
 Copyright (c) 2010-2015 Jari Bakken. See LICENSE for details.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fffi-icu.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fffi-icu?ref=badge_large)
